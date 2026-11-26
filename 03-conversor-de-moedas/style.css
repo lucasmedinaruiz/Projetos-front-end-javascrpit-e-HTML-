@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; background: #fff4e0; display: flex; justify-content: center; padding: 30px; }
+.caixa { background: #fff; padding: 20px; border-radius: 8px; width: 100%; max-width: 360px; }
+input, select, button { width: 100%; padding: 10px; margin-bottom: 12px; box-sizing: border-box; }
+#resultado { font-weight: bold; }

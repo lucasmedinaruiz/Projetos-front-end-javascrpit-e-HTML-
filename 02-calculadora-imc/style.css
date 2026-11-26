@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: #e8f4ea; display: flex; justify-content: center; padding: 30px; }
+.caixa { background: #fff; padding: 20px; border-radius: 8px; width: 100%; max-width: 360px; }
+input { width: 100%; padding: 8px; margin: 6px 0 12px; box-sizing: border-box; }
+button { width: 100%; padding: 10px; cursor: pointer; }
+#resultado { font-weight: bold; margin-top: 15px; }
